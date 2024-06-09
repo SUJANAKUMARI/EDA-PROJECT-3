@@ -47,7 +47,7 @@ c![download 35](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/7
 
 
 	b. Multivariate Analysis:  Perform multivariate analysis to understand the correlations and 	dependencies between various features. Utilize techniques like
-orrelation matrices or scatterplot matrices for a comprehensive view.
+correlation matrices, scatterplots, pairplots, histograms, point plots and violin plots for a comprehensive view.
 
 
 ![download 12](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/c70fdd81-d2c8-4143-86d7-e8915210866c)
@@ -59,6 +59,10 @@ orrelation matrices or scatterplot matrices for a comprehensive view.
 ![download 19](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/47a30756-9e3c-46a5-8394-fbb20a2bcbcd)
 ![download 20](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/70eda169-ce54-4935-98c1-dab5a7ac4132)
 ![download 18](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/8592fd45-3bd2-43f5-98ad-010eb3aac8aa)
+
+![download 26](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/1fde962d-b793-4caf-95a4-1231a86c7ccf)
+![download 27](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/9cf6b121-d2d1-48f2-9734-d4e45aa6b11f)
+![download 28](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/5351c60d-e803-443d-bd69-0d3122208aa8)
 
 
 5.  Feature Engineering:  Introduce new variables that might enhance the model's ability to predict house prices. For instance, calculate the price per square foot or engineer a feature representing the property's age.
