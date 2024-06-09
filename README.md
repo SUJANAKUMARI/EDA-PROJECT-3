@@ -21,12 +21,6 @@ Libraries to be imported:
 
 3.  DATA SIZE AND FORMAT:  The data has around 1460 rows and 81 columns in the form of csv.
 
-## Skewness
-
-The comparison box plots for each columns in which the outliers were present to check to what extent the outliers were removed through the Interquartile range method.
-
-Below are the images of the outputs of the comparison Box plots:
-
 ##  Methodology
 
 1.  Data Loading and Initial Exploration:
