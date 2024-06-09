@@ -54,6 +54,9 @@ orrelation matrices or scatterplot matrices for a comprehensive view.
 ![download 13](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/e107030d-55a8-401c-aedd-1310f2c26e75)
 ![download 14](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/025c6536-1eb9-459f-955d-a09ce1b518bb)
 ![download 15](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/2d464098-5ed0-43b8-975e-93ce945fb5df)
+![download 16](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/7b13309f-4413-4959-ab45-98b93a134ab2)![download 17](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/fc9e475b-569d-4a41-8858-4a5c907c8a9c)
+
+
 
 
 5.  Feature Engineering:  Introduce new variables that might enhance the model's ability to predict house prices. For instance, calculate the price per square foot or engineer a feature representing the property's age.
