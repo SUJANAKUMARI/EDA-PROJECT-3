@@ -78,6 +78,34 @@ feedback or reviews to gauge the perceived value of these amenities.
 ![download 33](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/dc0bfd6a-ab84-447a-b107-bce989775c33)
 ![download 23](https://github.com/SUJANAKUMARI/EDA-PROJECT-3/assets/162315739/2445c907-341b-45bd-be1e-7900cd80c8d2)
 
+## FINAL CONCLUSION:
+
+From the exploratory data analysis the numerical features mostly impacting the sale price include:
+
+1. Total living area in square feet: (0.67% correlated) It is directly proportional to the Sale Price.  Higher the total living area higher will be the sale price.
+
+2. Capacity of cars in garage: (0.63% correlated) It is directly proportional to the Sale Price.  Higher the capacity of cars in garage higher will be the sale price.
+
+3. Total Bathrooms: (0.62% correlated) It is directly proportional to the Sale Price.  Higher the number of bathrooms higher will be the sale price.
+
+4. Size of garage in square feet: (0.60% correlated) It is directly proportional to the Sale Price.  Higher the size of the garage higher will be the sale price.
+
+5. Total basement area in square feet: (0.57% correlated) It is directly proportional to the Sale Price.  Higher the total basement area in square feet higher will be the sale price.
+
+## FINAL CONCLUSION BASED ON EDA:
+
+The analysis of the data from the univariate and multivariate analysis and observing different plots like scatter plots, bar plots, kde plots, relational plots etc. include:
+
+1. The properties of the property are higher in the following conditions:
+
+2. Houses having total 7-10 rooms, 1 kitchen, and shape of property Regular/Slightly Irregular.
+
+3. Houses having total living area between 1500-2500 sqr ft, size of garage 500-800 square feet.
+
+4. Having Garage attached to home, 2-3 car parking capacity, Average quality and condition of garage.
+
+5. Houses having low age of property, means house constructed and sold within 20 years of construction
+
 
 ## Acknowledgment
 
